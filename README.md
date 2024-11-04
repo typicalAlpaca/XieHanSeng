@@ -1,2 +1,2 @@
 # XieHanSeng
-SE100 Assignment 1
+SE100 Assignments Submissions
