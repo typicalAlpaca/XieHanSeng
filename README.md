@@ -5,8 +5,8 @@ SE100 Assignments Submissions
 - [X] Assignment 2
 - [X] Assignment 3
 - [X] Assignment 4
-- [X] <ins>**Assignment 5**</ins> [Latest]
-- [ ] Assignment 6
+- [X] Assignment 5
+- [X] <ins>**Assignment 6**</ins> [Latest]
 - [ ] Assignment 7
 - [ ] Assignment 8
 - [ ] Assignment 9
